@@ -1,0 +1,9 @@
+
+<<<<<<< HEAD
+"Experimento a¤adiendo una nueva l¡nea al archivo_a.txt en la rama experimento" 
+"A¤ado una segunda l¡nea al archivo_a.txt en la rama master" 
+=======
+"Inserto una l¡nea en el archivo_a.txt" 
+>>>>>>> pruebas
+"Resuelvo el conflicto en esta primera l¡nea del archivo_a.txt" 
+"Tambi‚n modifico la segunda l¡nea del archivo_a.txt" 

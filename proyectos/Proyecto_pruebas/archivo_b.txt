@@ -1,0 +1,2 @@
+"Creo una primera l¡nea en el archivo_b.txt" 
+"Creo una segunda l¡nea en el archivo_b.txt" 
